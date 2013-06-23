@@ -18,7 +18,7 @@ public class ConnectionInit {
 
     final String host = "jdbc:mysql://localhost:3306/aphrodis";
     final String username = "root";
-    final String password = "0Derfine";
+    final String password = "anypassword";
     private Connection con;
 
     public ConnectionInit() {
